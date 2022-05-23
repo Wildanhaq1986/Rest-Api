@@ -34,4 +34,4 @@ Copyright ©2022 Xeon Bot Inc.
 
 ===[ readme.md ]=========================
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[repo link](https://github.com/Wildanhaq1986/Rest-Api)/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wildanhaq1986/Rest-Api/)
